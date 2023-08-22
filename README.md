@@ -18,6 +18,9 @@ git clone https://github.com/ShalvexNovachrono/Unity-Raycast-Detection-Zone.git
 4. Attach the script to a GameObject in your scene.
 5. Play the scene and observe how the raycast detection zone expands.
 
+It should look something like this
+![Screenshot_2023-08-22_001248-transformed](https://github.com/ShalvexNovachrono/Unity-Raycast-Detection-Zone/assets/55297590/4de47352-5afa-48f7-8256-1010b5551a01)
+
 ## Usage
 
 - Adjust the `size` and `sizeIncreaseNumber` variables to control the initial size and rate of expansion of the detection zone.
